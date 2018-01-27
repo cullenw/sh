@@ -1,0 +1,33 @@
+h3 {
+  font-family: inherit;
+}
+h3 a {
+  border-bottom: #fff solid 1px;
+}
+h3 a:hover {
+  border-bottom: #656565 solid 1px;
+  text-decoration: none;
+}
+header .logo {
+  background: url('../images/studiohouse_logo_white_solo.png');
+  width: 236px;
+  height: 31px;
+  text-indent: -9999px;
+}
+section.intro {
+  padding-top: 50px;
+}
+#navigation .menu {
+  font-size: 34px;
+  text-align: center;
+}
+footer {
+  border: 0;
+  padding: 80px 0 0 0;
+}
+footer .line {
+  border: 3px solid #fff;
+  width: 100px;
+  float: left;
+  opacity: .2;
+}
